@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"speed_buff","text":"\nspeed_buff.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nglow\n  rotate: false\n  xy: 2, 2\n  size: 173, 163\n  orig: 173, 163\n  offset: 0, 0\n  index: -1\nring\n  rotate: false\n  xy: 177, 65\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\n"}
